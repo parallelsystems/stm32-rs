@@ -1,5 +1,8 @@
 _svd: ../svd/stm32g491.svd
 
+_modify:
+  name: STM32G491
+
 OPAMP:
   _derive:
     OPAMP6_CSR:

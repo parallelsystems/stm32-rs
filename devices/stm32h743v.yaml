@@ -1,5 +1,8 @@
 _svd: ../svd/stm32h743v.svd
 
+_modify:
+    name: STM32H743v
+
 _derive:
   TIM4: TIM3
   TIM14: TIM13

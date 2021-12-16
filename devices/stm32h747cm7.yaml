@@ -1,5 +1,8 @@
 _svd: ../svd/stm32h747cm7.svd
 
+_modify:
+  name: STM32H747CM7
+
 # Applies to the H745/H747/H755/H757
 # CRYP and HASH are unavailable on the H745/H747
 

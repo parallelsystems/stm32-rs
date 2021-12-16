@@ -1,5 +1,8 @@
 _svd: ../svd/stm32g474.svd
 
+_modify:
+  name: STM32G474
+
 COMP:
   _strip:
     - "COMP_"

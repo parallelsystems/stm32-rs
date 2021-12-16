@@ -12,6 +12,7 @@ CRYP:
 
 # Fix invalid groupName
 _modify:
+  name: STM32H735
   OctoSPII_O_Manager:
     groupName: OctoSPII_O_Manager
   DMAMUX3:

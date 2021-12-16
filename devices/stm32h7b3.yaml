@@ -15,6 +15,7 @@ CRYP:
 
 # Fix invalid groupName
 _modify:
+  name: STM32H7B3
   OctoSPII_O_Manager:
     groupName: OctoSPII_O_Manager
 

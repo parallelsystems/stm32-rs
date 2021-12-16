@@ -1,5 +1,8 @@
 _svd: ../svd/stm32g4a1.svd
 
+_modify:
+  name: STM32G4A1
+
 OPAMP:
   _derive:
     OPAMP6_CSR:
